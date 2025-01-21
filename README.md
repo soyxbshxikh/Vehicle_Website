@@ -1,4 +1,4 @@
-## Vehicle Website Documentation
+# Vehicle Website Documentation
 
 ### 1. Introduction
 The Vehicle Website is designed to provide information about various vehicle models, allow users to contact the organization, and provide an overall appealing and user-friendly experience. This documentation outlines the structure, design, and functionality used in the website, built with HTML, CSS, and JavaScript.
